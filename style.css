@@ -1,0 +1,25 @@
+body{
+    padding-left: 5%;
+}
+.apartado{
+    text-align: end;
+    background-color: rgb(167, 166, 166);
+    padding: 1em;
+    margin: auto;
+}
+.cuerpo{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+footer{
+    background-color: rgb(167, 166, 166);
+    text-align: center;
+    margin-top: 2%;
+
+}
+#imagen{
+    margin-left: 4%;
+}
+#logo{
+    padding-bottom: 1%;
+}
